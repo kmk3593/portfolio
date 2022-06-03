@@ -20,7 +20,7 @@
 
 ## 포트폴리오
 
-### 주식 초심자를 위한 입문 챗봇  [-> 자세히 보기](https://github.com/kmk3593/kakao_chatbot_stock)
+### 주식 초심자를 위한 입문 챗봇  [#### -> 자세히 보기](https://github.com/kmk3593/kakao_chatbot_stock)
 
 - 사용언어 : `Python`
 - 작업툴 : `VSCord`
