@@ -39,7 +39,7 @@
 - 작업툴 : `Pycharm`
 - 서버 : `AWS EC2`
 - DB : `AWS RDS`
-- 사용 라이브러리 : `KoNLPy`, `json`, `requests`, `BeautifulSoup`, `django`, `MeCab`
+- 프레임워크 : `django`
 - 인원 : 5명
 - 기간 : 2021.01.08 - 2021.09.26
 - 내용 : 챗봇 등을 통해 고객에게 서비스를 제공하는 메시지 어플리케이션의 활용이 증가하였음을 참고하여 비전공자들이 IT 기술에 대한 정보를 쉽게 찾을 수 있도록 지원하려는 의도로 프로젝트를 진행
@@ -54,7 +54,8 @@
 - 작업툴 : `VSCord`
 - 서버 : `Heroku`
 - DB : `PostgreSQL`
-- 사용 라이브러리 : `pandas`, `json`, `requests`, `BeautifulSoup`, `flask`, `jsonify`, `psycopg2`
+- 프레임워크 : `flask`
+<!-- - 사용 라이브러리 : `pandas`, `json`, `requests`, `BeautifulSoup`, `flask`, `jsonify`, `psycopg2` -->
 - 인원 : 4명
 - 기간 : 2022.05.20 - 2022.06.03
 - 내용 : 점차 높아져가는 주식에 대한 관심과 그로 인해 늘어가는 주식 참여 인구를 고려하여 새로이 주식에 입문하는 사람들이 수익성있는 투자 활동을 시작할 수 있도록 도울 챗봇을 제작
@@ -68,7 +69,7 @@
 - 작업툴 : `STS4`
 - 서버 : `Tomcat`
 - DB : `MySQL`
-- 사용 프레임워크 : `Spring Framework`
+- 프레임워크 : `Spring Framework`
 - 인원 : 5명
 - 기간 : 22.07.15 ~ 22.08.26
 - 내용 : 천체 관측가들을 위하여 미래의 미세먼지와 기상조건을 정보를 토대로 관측지를 추천하는 커뮤니티
